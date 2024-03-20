@@ -1,0 +1,14 @@
+.div-btn{
+  text-align: center;
+}
+
+.my-btn{
+  font-size: 17px;
+  border: .2em solid darkslategray;
+  color: #ffffff;
+  border-radius: 2em;
+  background: darkslategray;
+  height: 50px;
+  width: 100px;
+  margin-top: 10%;
+}
